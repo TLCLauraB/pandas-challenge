@@ -5,18 +5,29 @@
 
 ## Overview
 
-I received help and support from my fellow Data Vis classmates via our Discord Server (both through voice chat and text), as well as our class-provided Slack Channel.  I regularly attended both before- and after-class Office Hours.  
+I received help and support from my fellow Data Vis classmates via our Discord Server (both through voice chat and text), as well as our class-provided Slack Channel. I regularly attend both before- and after-class Office Hours to engage the materials with the Instructor and TAs.
 
-I used the Python code as per the module and utilized Pandas as a functions library. I debugged using Jupyter Notebooks but converted the files back over to Python to ensure compliance with the homework assignment.
+I rewatched several of the classes from Module 4 using the Zoom recordings found at BSC > Zoom > Cloud Recordings. In conjunction with that, I re-reviewed the Module 3 and 4 Instructor Demos provided through GitLab.
 
-You may also notice several commented-out function-calls that I labeled 'Test for Success'. These were milestone tests for me to make sure the functions I was calling were performing as desired before incorporating into the whole.
+I used the Python code as per the module and utilized Pandas as a functions library. I debugged using Jupyter Notebooks and made sure to convert the files back over to Python to ensure total compliance with the homework assignment. I included both Jupyter Notebooks and Python Files for review, along with any README documentation.
 
-I utilized the following websites:
+You may also notice several commented-out function-calls that I labeled 'Test for Success'.  These were milestone tests I used to make sure the functions I was building were performing as desired before incorporating into the whole.
+
+I also used this technique several times to get a clearer picture of the data sets provided in the CSV files. 
+
+I utilized the following resources:
 
 ### Web Sites Used
+
+* Class Zoom Recordings
+    * https://courses.bootcampspot.com/courses/3876/external_tools/249
+
+* GitLab: UofM-VIRT-DATA-PT-06-2023-U-LOLC
+    * https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-DATA-PT-06-2023-U-LOLC
 
 * Pandas Documentation:
     * https://pandas.pydata.org/docs/reference/api/pandas.unique.html
     * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nunique.html
 
 ### YouTube Links Used
+
