@@ -29,5 +29,8 @@ I utilized the following resources:
     * https://pandas.pydata.org/docs/reference/api/pandas.unique.html
     * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nunique.html
 
+ * https://www.geeksforgeeks.org/python-map-function/
+ * https://realpython.com/python-dicts/
+
 ### YouTube Links Used
 
