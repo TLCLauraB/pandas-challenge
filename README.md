@@ -15,4 +15,8 @@ I utilized the following websites:
 
 ### Web Sites Used
 
+* Pandas Documentation:
+    * https://pandas.pydata.org/docs/reference/api/pandas.unique.html
+    * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nunique.html
+
 ### YouTube Links Used
