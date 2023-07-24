@@ -13,7 +13,7 @@ I used the Python code as per the module and utilized Pandas as a functions libr
 
 What are:<br />
 `# Test for Success`
-These were milestone tests I used to make sure the functions I was building were performing as desired before incorporating into the whole.
+These are milestone tests I use to make sure the functions I am building preform as desired before incorporating into the whole of the code.
 <br />
 <br />
 `# DEBUGGING`
