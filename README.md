@@ -36,16 +36,26 @@ I utilized the following resources:
     * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nunique.html
     * https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
     * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
+    * https://pandas.pydata.org/docs/reference/api/pandas.cut.html
+    * https://pandas.pydata.org/docs/reference/api/pandas.Series.str.replace.html
+    * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html
+    * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isin.html
 
 
  * General Reference:
     * https://www.geeksforgeeks.org/python-map-function/
     * https://realpython.com/python-dicts/
     * https://www.w3resource.com/pandas/series/series-value_counts.php
+    * https://www.geeksforgeeks.org/write-regular-expressions/
+    * https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html
 
     
 * Troubleshooting Errors
     * https://github.com/pandas-dev/pandas/issues/46072
     * https://stackoverflow.com/questions/72223610/dropping-invalid-columns-futurewarning
+    * https://stackoverflow.com/questions/41950021/typeerror-not-supported-between-instances-of-str-and-int
+    * https://bobbyhadz.com/blog/python-typeerror-not-supported-between-instances-of-str-and-int
+    * https://www.w3schools.com/python/pandas/ref_df_drop.asp
+    * https://stackoverflow.com/questions/27065133/pandas-merge-giving-error-buffer-has-wrong-number-of-dimensions-expected-1-go
 
 
