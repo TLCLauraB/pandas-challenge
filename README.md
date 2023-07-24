@@ -12,11 +12,11 @@ I rewatched several of the classes from Module 4 using the Zoom recordings found
 I used the Python code as per the module and utilized Pandas as a functions library. I debugged using Jupyter Notebooks and made sure to convert the files back over to Python to ensure total compliance with the homework assignment. I included both Jupyter Notebooks and Python Files for review, along with any README documentation.
 
 What are...
-    Test for Success
-        These were milestone tests I used to make sure the functions I was building were performing as desired before incorporating into the whole.
+Test for Success
+These were milestone tests I used to make sure the functions I was building were performing as desired before incorporating into the whole.
 
-    DEBUGGING
-        When something would break, I would go back and run alternative methods of a section until I found a solution that matched the example.
+DEBUGGING
+When something would break, I would go back and run alternative methods of a section until I found a solution that matched the example.
 
 I utilized the following resources:
 
