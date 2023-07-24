@@ -48,5 +48,4 @@ I utilized the following resources:
     * https://github.com/pandas-dev/pandas/issues/46072
     * https://stackoverflow.com/questions/72223610/dropping-invalid-columns-futurewarning
 
-### YouTube Links Used
 
