@@ -15,6 +15,7 @@ What are:<br />
 `# Test for Success`
 These were milestone tests I used to make sure the functions I was building were performing as desired before incorporating into the whole.
 <br />
+<br />
 `# DEBUGGING`
 When something would break, I would go back and run alternative methods of a section until I found a solution that matched the example.
 
@@ -23,7 +24,6 @@ I utilized the following resources:
 ### Web Sites Used
 
 * Class Zoom Recordings 
-
     * https://courses.bootcampspot.com/courses/3876/external_tools/249
 
 
