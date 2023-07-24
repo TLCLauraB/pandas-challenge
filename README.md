@@ -28,7 +28,7 @@ I utilized the following resources:
 
 
 * GitLab: UofM-VIRT-DATA-PT-06-2023-U-LOLC
-    *https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-DATA-PT-06-2023-U-LOLC
+    * https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-DATA-PT-06-2023-U-LOLC
 
 
 * Pandas Documentation:
