@@ -14,8 +14,7 @@ I used the Python code as per the module and utilized Pandas as a functions libr
 What are:<br />
 `# Test for Success`
 These are milestone tests I use to make sure the functions I am building preform as desired before incorporating into the whole of the code.
-<br />
-<br />
+
 `# DEBUGGING`
 When something would break, I would go back and run alternative methods of a section until I found a solution that matched the example.
 
